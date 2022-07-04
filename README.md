@@ -1,0 +1,2 @@
+# Predicting-Graduate-Admissions
+In this project I will be predicting "Chance of Admit" for different grad school applicants. The work flow consists of Data Processing, Linear regression and Multiple linear regression models. We use these different regression to see which best fits our model and is able to give the most accurate results. I also use visualization methods to produce box plots, violin plots, heat maps and pair plots to best communicate the findings.
